@@ -1,4 +1,5 @@
 Akaza-IM org.
 
-- Akaza 本体 - [akaza](https://github.com/akaza-im/akaza)
-- 標準的なモデル - [akaza-default-model](https://github.com/akaza-im/akaza-default-model)
+- libakaza(engine)/ibus-akaza - [akaza](https://github.com/akaza-im/akaza)
+- mac-kaza(Mac用IME) - [mac-akaza](https://github.com/akaza-im/mac-akaza)
+- akaza-ime(Windows用IME) - [akaza-ime](https://github.com/akaza-im/akaza-ime)
