@@ -5,4 +5,4 @@ Akaza-IM org は統計的かな漢字変換 IME の akaza の org です。
 
 - libakaza(engine)/ibus-akaza/akaza-default-model - [akaza](https://github.com/akaza-im/akaza)
 - mac-akaza(Mac用IME) - [mac-akaza](https://github.com/akaza-im/mac-akaza)
-- akaza-ime(Windos用IME) - [mac-akaza](https://github.com/akaza-im/akaza-ime)
+- akaza-ime(Windows用IME) - [akaza-ime](https://github.com/akaza-im/akaza-ime)
